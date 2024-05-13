@@ -2,6 +2,7 @@
 Implementation of MPSleepNet, a robust deep learning model for precise classification of sleep stages using polysomnography data. 
 ## Abstract
 See the whole architecture from the feature below:
+
 <img width="239" alt="image" src="https://github.com/EliteriaLYU/MPSleepNet/assets/146659503/e670a9f8-65d5-4c94-b1cf-99afde3ebb86">
 
 ## Requirements
